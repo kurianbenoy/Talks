@@ -16,6 +16,11 @@ For intermediate users
 - [Kannada digit classification](https://www.kaggle.com/shahules/indian-way-to-learn-cnn)
 - [Mask or No mask](https://www.kaggle.com/kurianbenoy/with-or-without-facemast-fastai2)
 
+## Appplication videos
+
+- [Plant classifier app made by my team](https://www.linkedin.com/posts/kurian-benoy-75642b120_trees-prediction-plants-activity-6464792546953527296-hTgL)
+- [Bus Board classifier](https://www.youtube.com/watch?v=TGIEOSrEyD8)
+
 
 [Video of recoding](https://drive.google.com/file/d/1MjqmPnCcGqsgybTBVs92Lfs8DtBE3JtS/view?usp=sharing)
 
